@@ -11,11 +11,11 @@ LineWidth=1
 #The color (RGBA) of the outer stroke.
 OuterStrokeColor=0;;0;;0;;100
 #The starting color (RGBA) of the fill gradient.
-FillStartColor=240;;240;;240;;255
+FillStartColor=46;;57;;63;;255
 #The ending color (RGBA) of the fill gradient.
-FillEndColor=220;;220;;220;;255
+FillEndColor=26;;37;;43;;255
 #The color (RGBA) of the inner stroke.
-InnerStrokeColor=255;;255;;255;;255
+InnerStrokeColor=150;;150;;150;;255
 
 [PlankDockTheme]
 #The padding on the left/right dock edges, in tenths of a percent of IconSize.
@@ -63,4 +63,4 @@ ItemMoveTime=450
 #Whether background and icons will unhide/hide with different speeds. The top-border of both will leave/hit the screen-edge at the same time.
 CascadeHide=true
 #The color (RGBA) of the badge displaying urgent count
-BadgeColor=255;;0;;0;;255
+BadgeColor=0;;0;;0;;0
